@@ -1,0 +1,1 @@
+there are only two correct variable names that are _FLOAT and FLOAT.And all other violates the variable name ruling
